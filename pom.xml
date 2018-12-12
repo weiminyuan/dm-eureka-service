@@ -62,6 +62,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>1.5.4.RELEASE</version>
 			</plugin>
+			<!--打包不运行test-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
