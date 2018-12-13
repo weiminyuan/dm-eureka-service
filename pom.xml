@@ -13,7 +13,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>dm-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>dm-eureka-server</name>
 	<description>Demo project for Spring Cloud</description>
